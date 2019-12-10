@@ -9,7 +9,10 @@ NAME	=	push_swap
 
 SRC	=	src/main.c \
 		src/my_putstr.c \
-		src/my_putchar.c
+		src/my_putchar.c \
+		src/bubble_check.c \
+		src/my_atoi.c \
+		src/trans_char.c
 
 CC	=	gcc
 
