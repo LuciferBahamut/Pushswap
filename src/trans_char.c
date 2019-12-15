@@ -9,7 +9,7 @@
 
 int *trans_int(int ac, char **av)
 {
-    int *list = malloc(ac);
+    int *list = malloc((ac - 1) * sizeof(int));
     int j = 1;
 
     ac--;

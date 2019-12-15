@@ -12,7 +12,12 @@ SRC	=	src/main.c \
 		src/my_putchar.c \
 		src/bubble_check.c \
 		src/my_atoi.c \
-		src/trans_char.c
+		src/trans_char.c \
+		src/sort.c \
+		src/cmd_r.c \
+		src/cmd_p.c \
+		src/cmd_s.c \
+		src/find_smallest.c
 
 CC	=	gcc
 
@@ -38,6 +43,8 @@ fclean	:	clean
 		rm -f $(NAME)
 		rm -f *#
 		rm -f *~
+		rm -f src/*~
+		rm -f include/*~
 		rm -f *.gcda
 		rm -f *.gcno
 
