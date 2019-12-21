@@ -25,5 +25,6 @@ int main(int ac, char **av)
         sort(l_a, l_b, nb, nb);
         my_putchar('\n');
     }
+    free(l_a);
     return (0);
 }
