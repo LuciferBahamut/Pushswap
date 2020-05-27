@@ -5,7 +5,7 @@
 
 Pushswap_2019 -- With Crash
 
-Result : 69,4 %
+Result : 50 %
 
   - One number : 100 % -- 3 / 3
 
