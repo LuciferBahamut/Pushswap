@@ -1,20 +1,15 @@
-# Pushswap
-{EPITECH} -- First year -- second CPE project
+<h1>Pushswap</h1>
+<h3>{EPITECH} -- First year -- second CPE project</h3>
 
-1st semester CPE unit part I : Grade C
+<p>1st semester CPE unit part I : Grade C</p>
 
-Pushswap_2019 -- With Crash
+<p>Pushswap_2019 -- With Crash</p>
 
-Result : 50 %
-
-  - One number : 100 % -- 3 / 3
-
-  - Sorted list : 100 % -- 3 / 3
-
-  - Small unsorted lists : 100 % -- 12 / 12
-
-  - Medium unsorted lists : 0 % -- 0 / 9 (CRASH)
-
-  - Big unsorted lists : 0 % -- 0 / 9
-
-Beware of -42 for Epitech students !
+<p>Result : 50 %</p>
+  <li>One number : 100 % -- 3 / 3</li>
+  <li>Sorted list : 100 % -- 3 / 3</li>
+  <li>Small unsorted lists : 100 % -- 12 / 12</li>
+  <li>Medium unsorted lists : 0 % -- 0 / 9 (CRASH)</li>
+  <li>Big unsorted lists : 0 % -- 0 / 9</li>
+  <p></p>
+<p>Beware of -42 for Epitech students !</p>
