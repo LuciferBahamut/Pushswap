@@ -1,5 +1,5 @@
 <h1>Pushswap</h1>
-<h3>{EPITECH} -- First year -- second CPE project</h3>
+<h3>{EPITECH} -- First year -- Semester 1 -- second CPE project</h3>
 
 <p>1st semester CPE unit part I : Grade C</p>
 
