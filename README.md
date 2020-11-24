@@ -3,7 +3,7 @@
 
 <p>1st semester CPE unit part I : Grade C</p>
 
-<p>Pushswap_2019 -- With Crash</p>
+<p>pushswap -- With Crash</p>
 
 <p>Result : 50 %</p>
   <li>One number : 100 % -- 3 / 3</li>
